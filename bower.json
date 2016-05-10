@@ -1,0 +1,22 @@
+{
+  "name": "map-script",
+  "homepage": "https://github.com/AndreasLochwitz/map-script",
+  "authors": [
+    "Andreas Lochwitz <andreas_lochwitz@live.de>"
+  ],
+  "description": "Insert a map by adding a tag",
+  "main": "src/map-script.js",
+  "moduleType": [
+    "amd",
+    "globals"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
